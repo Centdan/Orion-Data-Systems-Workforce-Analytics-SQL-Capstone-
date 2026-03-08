@@ -1,0 +1,2 @@
+# Orion-Data-Systems-Workforce-Analytics-SQL-Capstone-
+Orion Data Systems is a multinational consulting and technology firm headquartered in  San Francisco, USA, with offices spanning Europe, Asia, and the Americas. This project  simulates a real-world data analyst engagement where the HR &amp; Strategy team needed  SQL-driven insights from their workforce database to support business decision-making.
